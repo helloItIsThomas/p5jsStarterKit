@@ -11,8 +11,9 @@ You can start coding anytime with the p5.js web editor at
 There's an interactive reference site you can use to find the functions you need at
 	https://helloitisthomas.github.io/p5jsStarterKitReference/
 
-You can also download the code for this kit, as well as the reference site source code at
-	https://github.com/helloItIsThomas/
+You can also download the code for this kit at
+	https://github.com/helloItIsThomas/p5jsStarterKit
+There's a link to the reference site source code on my page as well.
 
 Feel free to contact me with any questions, bugs, or just to say hi at
 	helloItIsThomasM@gmail.com
