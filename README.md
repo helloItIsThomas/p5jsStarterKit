@@ -17,3 +17,5 @@ There's a link to the reference site source code on my page as well.
 
 Feel free to contact me with any questions, bugs, or just to say hi at
 	helloItIsThomasM@gmail.com
+
+~ Thomas <3
