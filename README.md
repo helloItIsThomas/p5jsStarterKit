@@ -12,8 +12,7 @@ There's an interactive reference site you can use to find the functions you need
 	https://helloitisthomas.github.io/p5jsStarterKitReference/
 
 You can also download the code for this kit, as well as the reference site source code at
-	https://github.com/helloItIsThomas/p5jsStarterKit
-	https://github.com/helloItIsThomas/p5jsStarterKitReference
+	https://github.com/helloItIsThomas/
 
 Feel free to contact me with any questions, bugs, or just to say hi at
 	helloItIsThomasM@gmail.com
