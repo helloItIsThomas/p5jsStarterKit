@@ -1,0 +1,169 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+a {
+  position: relative;
+  background-color: #E6B8B9;
+  text-align: center;
+  /* width: 40vw; */
+  color: #000000;
+  font-size: 30px;
+  padding-top: 12px;
+  padding-left: 4vw;
+  padding-right: 16vw;
+  border-radius: 5px;
+  /* -webkit-text-stroke-width: 1px; */
+  /* -webkit-text-stroke-color: #E6B8B9; */
+  /* fill: #E6B8B9; */
+  /* stroke: #E6B8B9; */
+  font-family: tiny_160;
+  src: url("data/tiny_160.otf");
+  text-decoration: none;
+}
+
+#link1{
+  background-color: #E6B8B9;
+  color: #000000;
+  border: 2px solid #000000;
+  stroke: #E6B8B9;
+}
+#link2{
+  background-color: #000000;
+  color: #E6B8B9;
+  border: 2px solid #E6B8B9;
+  stroke: #E6B8B9;
+}
+
+.aboutBody{
+  background-color: #E6B8B9;
+}
+
+.myHeader{
+  /* style = font-size:8vw; */
+  position: absolute;
+  font-family: tiny_160;
+  color: #E6B8B9;
+  /* left: 20; */
+  /* top: 5vh; */
+  font-size:20vh;
+}
+
+/* ||||||||||||| */
+.divOne{
+  position: absolute;
+  left: 20;
+  top: 200px;
+  width: 50vw;
+}
+.divFooter{
+  position: absolute;
+  width: 95vw;
+  bottom: 10;
+  left: 10;
+}
+.divFooterAbout{
+  position: fixed;
+  width: 100vw;
+  bottom: 10;
+  left: 10;
+}
+.myHeader2{
+  /* position: relative; */
+  /* style = font-size:8vw; */
+  font-family: tiny_160;
+  color: #000000;
+  /* left: 20; */
+  /* top: 5vh; */
+  font-size: 12.5vw;
+  /* background-color: blue; */
+  margin: 0px;
+  padding: 0px;
+  margin-top: 5vw;
+}
+.myHeader1{
+  position: relative;
+  /* style = font-size:8vw; */
+  font-family: tiny_160;
+  color: #E6B8B9;
+  /* left: 20; */
+  /* top: 5vh; */
+  font-size:15vh;
+  /* background-color: blue; */
+  margin: 0px;
+}
+.myBody35{
+  /* margin: 0px; */
+  /* width: 50vw; */
+  /* style = font-size:8vw; */
+  /* position: absolute; */
+  /* background-color: white; */
+  font-family: apercu;
+  color: #E6B8B9;
+  /* left: 20; */
+  /* top: 45vh; */
+  font-size:3vh;
+}
+.myBody3{
+  font-family: apercu;
+  color: #000000;
+  font-size:2vw;
+  line-height: 4vw;
+}
+.myBody5{
+  width: 95vw;
+  background-color: black;
+  font-family: apercu;
+  color: #E6B8B9;
+  padding: 1vw;
+  font-size:2vh;
+  line-height: 4vw;
+}
+/* ||||||||||||| */
+
+.myHeader3{
+  /* style = font-size:8vw; */
+  position: absolute;
+  color: #E6B8B9;
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #000000;
+  font-family: tiny_160;
+  /* left: 20; */
+  /* top: 65vh; */
+  font-size:20vh;
+}
+
+.myBody{
+  width: 50vw;
+  /* style = font-size:8vw; */
+  /* position: relative; */
+  font-family: apercu;
+  color: #E6B8B9;
+  /* left: 20; */
+  /* top: 45vh; */
+  /* font-size:3vh; */
+}
+.myBody4{
+  width: 50vw;
+  /* style = font-size:8vw; */
+  /* position: absolute; */
+  font-family: apercu;
+  color: #000000;
+  left: 20;
+  top: 95vh;
+  font-size:3vh;
+}
+.myBody2{
+  width: 50vw;
+  /* style = font-size:8vw; */
+  /* position: relative; */
+  font-family: apercu;
+  color: #E6B8B9;
+  /* left: 20; */
+  top: 45vh;
+  font-size:3vh;
+}
